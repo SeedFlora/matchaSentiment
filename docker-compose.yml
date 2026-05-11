@@ -1,0 +1,35 @@
+services:
+  app:
+    build: .
+    image: matcha-sentiment:latest
+    ports:
+      - "7860:7860"
+    volumes:
+      - .:/workspace
+    environment:
+      - MODEL_DIR=/workspace/models/best_transformer
+      - CLASSICAL_MODEL_PATH=/workspace/models/classical/best_model.joblib
+    gpus: all
+
+  train:
+    build: .
+    image: matcha-sentiment:latest
+    command: python scripts/train_all.py --require-gpu
+    volumes:
+      - .:/workspace
+    gpus: all
+
+  train-transformers:
+    build: .
+    image: matcha-sentiment:latest
+    command: python scripts/train_transformers.py --require-gpu
+    volumes:
+      - .:/workspace
+    gpus: all
+
+  train-classical:
+    build: .
+    image: matcha-sentiment:latest
+    command: python scripts/train_classical.py --folds 10
+    volumes:
+      - .:/workspace

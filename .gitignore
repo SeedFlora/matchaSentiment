@@ -1,0 +1,17 @@
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Training checkpoints (regenerable; large)
+artifacts/transformers/*/checkpoints/
+models/transformers/*/checkpoints/
+
+# Large transformer weights (>400MB each) — regenerable via scripts/train_transformers.py
+# Host on HuggingFace Hub if you need to redistribute trained weights.
+models/best_transformer/model.safetensors
+models/transformers/*/model/model.safetensors

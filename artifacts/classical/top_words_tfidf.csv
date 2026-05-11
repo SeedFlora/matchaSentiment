@@ -1,0 +1,121 @@
+term,weight,label_name
+enak,4.304386896219856,Positif
+nyaman,1.5931613924281547,Positif
+pelayanan,1.5894611518447628,Positif
+terbaik,1.4888997276260296,Positif
+enak dan,1.3836204505110392,Positif
+bagus,1.2681427092981672,Positif
+sangat enak,1.2207520430568064,Positif
+lezat,1.2077749857063242,Positif
+autentik,1.2005245054478995,Positif
+ramah,1.1224609509226047,Positif
+tempatnya,1.0211725540664165,Positif
+matcha enak,0.893274521628796,Positif
+suka,0.8461195469419259,Positif
+mantap,0.7716081233130754,Positif
+tempat nyaman,0.7478208257618151,Positif
+tidak terlalu,0.739803683379821,Positif
+pecinta,0.7396565150523136,Positif
+pecinta matcha,0.7396565150523136,Positif
+sangat nyaman,0.6990746632931802,Positif
+sangat direkomendasikan,0.6985339014653046,Positif
+menarik,0.6853481097677377,Positif
+matcha terbaik,0.6824577035459856,Positif
+direkomendasikan,0.6806437092961912,Positif
+staf ramah,0.6648401660647443,Positif
+wajib,0.6355473474528988,Positif
+terlalu manis,0.634365672717941,Positif
+berkualitas,0.6161666597571911,Positif
+nyaman dan,0.61172407122489,Positif
+favorit,0.600324504622327,Positif
+dessert,0.5919449543119546,Positif
+makanan enak,0.5869213522883414,Positif
+mencoba,0.5750526702499629,Positif
+cream,0.5627263418375923,Positif
+ice cream,0.5627263418375923,Positif
+jakarta,0.56209885961229,Positif
+di jakarta,0.56209885961229,Positif
+sangat suka,0.549655324340221,Positif
+tempatnya nyaman,0.5410770156075851,Positif
+matcha autentik,0.5361761703079967,Positif
+dicoba,0.5273952156410693,Positif
+dan pelayanan,0.5221125144780653,Positif
+ambience,0.5199098759446265,Positif
+cocok,0.49558837120888194,Positif
+ice,0.48618489557226496,Positif
+pelayanan sangat,0.48601128781652153,Positif
+cocok untuk,0.48482745222041507,Positif
+menyenangkan,0.4823794447024752,Positif
+enak sekali,0.4809683114750672,Positif
+semuanya,0.4805624315620572,Positif
+pelayanan baik,0.479259565409924,Positif
+pelayanan ramah,0.4777094550080745,Positif
+tempat bagus,0.47443529750589475,Positif
+minuman enak,0.4694165424813977,Positif
+matcha berkualitas,0.45288169095622827,Positif
+sangat lezat,0.44016285385521947,Positif
+ramah dan,0.43589074007902545,Positif
+koicha,0.4345895270021906,Positif
+cheesecake,0.42954121371844767,Positif
+dan enak,0.4274964894480354,Positif
+signature,0.42431724073315047,Positif
+tidak,-2.8440418328384314,Negatif
+gerai,-1.036886790890873,Negatif
+sangat tidak,-0.9394713097386664,Negatif
+area,-0.8709145330825168,Negatif
+pelanggan,-0.862219064530615,Negatif
+pesanan,-0.814932243111312,Negatif
+buruk,-0.8077266222815642,Negatif
+hanya,-0.7698301003706705,Negatif
+gelas,-0.7526090259021854,Negatif
+sepertinya,-0.7111573809278096,Negatif
+harganya,-0.6658047540746871,Negatif
+sangat buruk,-0.6471922099808138,Negatif
+lama,-0.6301713006760811,Negatif
+padahal,-0.6216209217310484,Negatif
+meja,-0.6162343339754712,Negatif
+yang tidak,-0.558527719089718,Negatif
+antrean,-0.5579629508921761,Negatif
+air,-0.5470354007269711,Negatif
+staf,-0.5388661864341676,Negatif
+teh,-0.5350265444180811,Negatif
+harga,-0.524395628224049,Negatif
+matcha-nya,-0.5217834516252867,Negatif
+masuk,-0.5202519327314624,Negatif
+plastik,-0.5176281514851081,Negatif
+jauh,-0.5146031045019137,Negatif
+hampir,-0.5091179488744763,Negatif
+menunggu,-0.47526076088352404,Negatif
+tidak ada,-0.4743944993474748,Negatif
+waktu,-0.4705900820681638,Negatif
+terlalu,-0.4651418688670144,Negatif
+porsi,-0.4632554763184712,Negatif
+jam,-0.4486822873938447,Negatif
+standar,-0.44543242842122877,Negatif
+kualitas,-0.4429889752236149,Negatif
+topping,-0.43438011213960553,Negatif
+kasir,-0.43142905529914627,Negatif
+penjelasan,-0.42648966498511187,Negatif
+tidak nyaman,-0.42581213294688874,Negatif
+mal,-0.42512142357355953,Negatif
+keras,-0.421722346655455,Negatif
+ternyata,-0.40208937363114283,Negatif
+sering,-0.3960011440737356,Negatif
+terburuk,-0.3956310951789846,Negatif
+ruangan,-0.3938272965174729,Negatif
+kursi,-0.3848265543905986,Negatif
+sangat lambat,-0.3826935754480693,Negatif
+mengecewakan,-0.38233262941620066,Negatif
+sendok,-0.3770056245475491,Negatif
+pesan,-0.37308400478593734,Negatif
+aroma,-0.3694577988381972,Negatif
+pelanggan yang,-0.36303970864420454,Negatif
+aneh,-0.36239071571956977,Negatif
+pesanan saya,-0.3615284740169249,Negatif
+pembayaran,-0.3590938763568509,Negatif
+tambahan,-0.3587525813119479,Negatif
+meninggalkan,-0.35513585722074414,Negatif
+pelayan,-0.3547288196335345,Negatif
+lengket,-0.35117775549895247,Negatif
+minum,-0.3460859268915004,Negatif
+memberikan,-0.34586488820512107,Negatif

@@ -1,0 +1,14 @@
+{
+  "input_file": "Matchaya Gandaria City + IKUYO (done; need recheck).xlsx",
+  "output_file": "/workspace/data/processed/matcha_sentiment_binary.csv",
+  "original_rows": 757,
+  "dropped_netral": 14,
+  "dropped_other_label": 0,
+  "dropped_bad_text": 0,
+  "dropped_duplicates": 46,
+  "kept_rows": 697,
+  "labels": {
+    "Negatif": 371,
+    "Positif": 326
+  }
+}
